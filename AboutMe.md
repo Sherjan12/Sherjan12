@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Sherjan12
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Sherjan12/Sherjan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi my name is Muhammad Sherjan I am currently 16
+Years old and I love coding and Hacking. I want to make
+an artificial assistant for myself like Jarvis. 
